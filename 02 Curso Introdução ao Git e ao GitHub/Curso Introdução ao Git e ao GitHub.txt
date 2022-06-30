@@ -1,0 +1,12 @@
+Curso Introdução ao Git e ao GitHub
+Entendendo o que é Git e sua importância
+
+Instrutor: Otávio Reis
+
+Introdução ao Git
+Navegação via command line, interface e instalação
+Entendendo como o Git funciona por baixo dos panos
+Primeiros comandos com o Git
+Ciclo de vida dos arquivos com Git
+Introdução ao GitHub
+Resolvendo conflitos
