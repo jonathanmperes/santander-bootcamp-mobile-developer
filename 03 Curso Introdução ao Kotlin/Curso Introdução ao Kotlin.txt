@@ -1,0 +1,5 @@
+Curso Introdução ao Kotlin
+Instrutora: Ana Luísa Dias
+
+Principais conceitos sobre a linguagem Kotlin e desenvolvimento Android
+Kotlin: Sintaxe básica
