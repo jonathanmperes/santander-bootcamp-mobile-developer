@@ -1,0 +1,6 @@
+Curso Aplicando Conceitos de Coleções, Arrays e Listas
+
+Instrutor: Jether Rodrigues
+
+O que são collections
+O que são collections mutáveis
