@@ -1,0 +1,8 @@
+Curso Java e Kotlin Juntos - Construindo Apps Android
+
+Instrutor: Venilton Falvo Jr.
+
+Introdução
+Criando uma "API" e Modelando seu Domínio
+Conhecendo as Bibliotecas Retrofit e Glide
+Parcelable e Simulação de Partidas
