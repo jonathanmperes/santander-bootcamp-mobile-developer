@@ -1,0 +1,9 @@
+Curso Desmistificando o Android Studio na Prática
+
+Instrutor: Pedro Luís Martins
+
+Manutenção
+Debugger
+Pesquisas
+Dúvidas e encerramento
+
