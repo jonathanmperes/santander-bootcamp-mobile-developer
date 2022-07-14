@@ -1,0 +1,7 @@
+Curso Melhores Práticas Para Debugging, Tratamento de Erros e Exceções
+
+Instrutora: Ana Luísa Dias
+
+Introdução e conhecendo o modo desenvolvedor
+Ferramentas da IDE
+Lendo e interpretando logs
