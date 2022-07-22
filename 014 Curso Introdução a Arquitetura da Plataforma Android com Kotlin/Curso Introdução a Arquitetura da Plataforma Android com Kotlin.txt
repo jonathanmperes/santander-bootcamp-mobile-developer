@@ -1,0 +1,7 @@
+Curso Introdução a Arquitetura da Plataforma Android com Kotlin
+
+Instrutora: Jamile Ferreira
+
+Conhecendo a arquitetura e DSU
+Segurança do sistema
+Android App Bundle
