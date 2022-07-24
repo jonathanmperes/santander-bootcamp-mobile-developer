@@ -1,0 +1,5 @@
+Curso Aplicando TDD e Padrões de Testes no Desenvolvimento de Aplicativos Android
+
+Instrutor: Igor Ferrani
+
+Aplicando TDD e padrões de testes
