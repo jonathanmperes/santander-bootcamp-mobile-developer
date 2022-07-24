@@ -1,0 +1,6 @@
+Curso Princípios do Desenvolvimento Kotlin com Clean Architecture e MVVM
+
+Instrutor: Natan Felipe
+
+O que é arquitetura MVVM e Clean Architecture
+Setup webservice, repositório, domain, use case e implementações
